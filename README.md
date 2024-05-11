@@ -1,5 +1,12 @@
 # ThinkDSP
+
+
+
 PYTHON信号处理的相关代码
+
+
+
+
 *Think DSP* is an introduction to Digital Signal Processing in Python.
 
 [Order *Think DSP* from Amazon.com](http://amzn.to/1naaUCN).
